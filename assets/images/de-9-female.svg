@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 413 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:cc="http://creativecommons.org/ns#">
+      <cc:Work rdf:about="">
+        <dc:title>DE-9 Female Pinout</dc:title>
+        <dc:creator>Jack 68K</dc:creator>
+        <dc:source>https://commons.wikimedia.org/wiki/File:DE-9_Female.svg</dc:source>
+        <dc:description>Modified from "female DE-9 pinout" by Aeroid. Changes: labelled all pins and gender.</dc:description>
+        <cc:license rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+    <g transform="matrix(3.49653,0,0,3.49653,206.247,96)">
+        <g transform="matrix(1,0,0,1,-64.089,-29.831)">
+            <g id="Calque-1" serif:id="Calque 1" transform="matrix(1,0,0,1,-138.768,-233.96)">
+                <g id="g2237" transform="matrix(1,0,0,1,114.213,116.871)">
+                    <path id="path2239" d="M146.732,164.752C146.732,168.064 144.047,170.751 140.732,170.751L36.555,170.751C33.24,170.751 30.555,168.064 30.555,164.752L30.555,129.089C30.555,125.773 33.24,123.089 36.555,123.089L140.733,123.089C144.048,123.089 146.733,125.773 146.733,129.089L146.733,164.752L146.732,164.752Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+                    <g id="g2241">
+                        <g id="circle2243" transform="matrix(1.44623,0,0,1.44623,-29.7228,-63.075)">
+                            <circle cx="66.589" cy="141.351" r="2.241" style="fill:none;stroke:black;stroke-width:0.35px;"/>
+                        </g>
+                        <g id="circle2245" transform="matrix(1.44623,0,0,1.44623,-34.6354,-63.075)">
+                            <circle cx="77.618" cy="141.351" r="2.241" style="fill:none;stroke:black;stroke-width:0.35px;"/>
+                        </g>
+                        <g id="circle2247" transform="matrix(1.44817,0,0,1.44817,-39.7274,-63.349)">
+                            <circle cx="88.644" cy="141.351" r="2.238" style="fill:none;stroke:black;stroke-width:0.35px;"/>
+                        </g>
+                        <g id="path2249" transform="matrix(1.44633,0,0,1.44633,-44.4858,-63.0888)">
+                            <path d="M99.668,139.11C100.906,139.11 101.91,140.114 101.91,141.351C101.91,142.588 100.906,143.591 99.668,143.591C98.435,143.591 97.431,142.588 97.431,141.351C97.431,140.114 98.435,139.11 99.668,139.11Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.35px;"/>
+                        </g>
+                        <g id="circle2251" transform="matrix(1.44623,0,0,1.44623,-49.4144,-63.075)">
+                            <circle cx="110.697" cy="141.351" r="2.241" style="fill:none;stroke:black;stroke-width:0.35px;"/>
+                        </g>
+                        <g id="circle2253" transform="matrix(1.44663,0,0,1.44663,-32.2693,-68.1067)">
+                            <circle cx="72.103" cy="152.491" r="2.239" style="fill:none;stroke:black;stroke-width:0.35px;"/>
+                        </g>
+                        <g id="circle2255" transform="matrix(1.44663,0,0,1.44663,-37.1286,-68.1067)">
+                            <circle cx="83.131" cy="152.491" r="2.239" style="fill:none;stroke:black;stroke-width:0.35px;"/>
+                        </g>
+                        <g id="path2257" transform="matrix(1.44643,0,0,1.44663,-42.033,-68.1068)">
+                            <path d="M94.156,150.252C95.393,150.252 96.394,151.255 96.394,152.489C96.394,153.726 95.393,154.73 94.156,154.73C92.918,154.73 91.914,153.726 91.914,152.489C91.914,151.255 92.918,150.252 94.156,150.252Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.35px;"/>
+                        </g>
+                        <g id="circle2259" transform="matrix(1.44663,0,0,1.44663,-46.9786,-68.1067)">
+                            <circle cx="105.185" cy="152.491" r="2.239" style="fill:none;stroke:black;stroke-width:0.35px;"/>
+                        </g>
+                    </g>
+                    <path id="path2261" d="M63.644,130.222C58.035,130.222 54.244,134.74 55.219,140.264L57.573,153.573C58.549,159.098 63.939,163.622 69.548,163.622L107.739,163.622C113.347,163.622 118.735,159.099 119.714,153.573L122.068,140.264C123.043,134.74 119.255,130.222 113.643,130.222L63.644,130.222Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+                    <g id="g2263">
+                        <circle id="circle2265" cx="41.76" cy="146.922" r="5.054" style="fill:none;stroke:black;stroke-width:1px;"/>
+                        <circle id="circle2267" cx="135.528" cy="146.922" r="5.054" style="fill:none;stroke:black;stroke-width:1px;"/>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,138.197,243.653)">
+                    <g transform="matrix(6,0,0,6,88.6885,16.6923)">
+                    </g>
+                    <text x="85.352px" y="16.692px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:6px;">1</text>
+                </g>
+                <g transform="matrix(1,0,0,1,126.89,243.663)">
+                    <g transform="matrix(6,0,0,6,88.6885,16.6923)">
+                    </g>
+                    <text x="85.352px" y="16.692px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:6px;">2</text>
+                </g>
+                <g transform="matrix(1,0,0,1,115.878,243.611)">
+                    <g transform="matrix(6,0,0,6,88.6885,16.6923)">
+                    </g>
+                    <text x="85.352px" y="16.692px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:6px;">3</text>
+                </g>
+                <g transform="matrix(1,0,0,1,104.832,243.64)">
+                    <g transform="matrix(6,0,0,6,88.6885,16.6923)">
+                    </g>
+                    <text x="85.352px" y="16.692px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:6px;">4</text>
+                </g>
+                <g transform="matrix(1,0,0,1,93.8143,243.57)">
+                    <g transform="matrix(6,0,0,6,88.6885,16.6923)">
+                    </g>
+                    <text x="85.352px" y="16.692px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:6px;">5</text>
+                </g>
+                <g transform="matrix(1,0,0,1,135.768,128.283)">
+                    <g transform="matrix(6,0,0,6,33.0146,156.047)">
+                    </g>
+                    <text x="12.337px" y="156.047px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:6px;">Female</text>
+                </g>
+                <g id="text3259-1-4">
+                </g>
+                <g transform="matrix(1,0,0,1,217.709,271.481)">
+                    <g id="text3259-1-9">
+                        <g transform="matrix(6,0,0,6,3.33691,0)">
+                        </g>
+                        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6px;">6</text>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,206.705,271.48)">
+                    <g id="text3259-1-91" serif:id="text3259-1-9">
+                        <g transform="matrix(6,0,0,6,3.33691,0)">
+                        </g>
+                        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6px;">7</text>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,195.689,271.48)">
+                    <g id="text3259-1-92" serif:id="text3259-1-9">
+                        <g transform="matrix(6,0,0,6,3.33691,0)">
+                        </g>
+                        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6px;">8</text>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,184.626,271.48)">
+                    <g id="text3259-1-93" serif:id="text3259-1-9">
+                        <g transform="matrix(6,0,0,6,3.33691,0)">
+                        </g>
+                        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6px;">9</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

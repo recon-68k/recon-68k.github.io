@@ -1,0 +1,155 @@
+---
+---
+
+$section-headings-color: #7e2453 !default;
+$body-text-color: #2a3538 !default;
+$sans-serif-body-text-color: #404d52 !default;
+$body-link-color: #1e6bb8 !default;
+$blockquote-text-color: #819198 !default;
+
+$tip-border-color: #197f32 !default;
+$tip-text-color: #197f32 !default;
+$gradient-opacity: 0.6;
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400&display=swap');
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: 'EB Garamond', serif;
+  letter-spacing: -0.01em;
+  font-size: 1.2em;
+}
+
+.main-content {
+  font-size: 1.0em;
+}
+
+.page-header {
+    padding: 1rem 1rem;
+    background-color: #fff;
+    background-image: linear-gradient(
+      120deg,
+      rgba(97, 187, 70, $gradient-opacity),
+      rgba(253, 184, 39, $gradient-opacity),
+      rgba(245, 130, 31, $gradient-opacity),
+      rgba(224, 58, 62, $gradient-opacity),
+      rgba(150, 61, 151, $gradient-opacity),
+      rgba(0, 157, 220, $gradient-opacity)
+    );
+}
+
+.page-header h1 {
+  color: #111;
+}
+
+.page-header h2 {
+ color: #222;
+}
+
+.icon-text-container {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  max-width: fit-content;
+  margin: 0 auto;
+}
+
+.icon-text-container img {
+  width: 120px;
+  height: 120px;
+  flex-shrink: 0;
+}
+
+.icon-text-container h1, .icon-text-container h2 {
+  margin: 0;
+  text-align: left;
+}
+
+.pinout {
+  margin-top: 2em;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.9rem;
+  letter-spacing: normal;
+  color: $sans-serif-body-text-color;
+}
+
+.pinout th[colspan] {
+  text-align: center;
+  background: #e8e8e8;
+}
+
+.pinout th:nth-child(2),
+.pinout th:nth-child(4),
+.pinout td:nth-child(2),
+.pinout td:nth-child(4) {
+  text-align: center;
+}
+
+.test-reference table {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.9rem;
+  letter-spacing: normal;
+  color: $sans-serif-body-text-color;
+}
+
+.test-reference table th:nth-child(1),
+.test-reference table td:nth-child(1) {
+  width: 200px;
+  font-weight: 600;
+}
+
+.test-reference table th:nth-child(2),
+.test-reference table td:nth-child(2) {
+  width: auto;
+}
+
+.test-reference table th:nth-child(1),
+.test-reference table th:nth-child(2) {
+    text-align: left;
+}
+
+.test-reference table th:nth-child(n+3),
+.test-reference table td:nth-child(n+3) {
+  min-width: 4em;
+  text-align: center;
+  white-space: nowrap;
+}
+
+
+.main-content blockquote.callout-tip {
+  border-color: $tip-border-color;
+}
+
+.callout-tip::before {
+  content: "Tip";
+  display: block;
+  font-weight: bold;
+  color: $tip-text-color;
+  margin-bottom: 5px;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.gallery a {
+  flex: 0 0 auto;
+}
+
+.gallery img {
+  width: 200px;
+  height: auto;
+  border-radius: 4px;
+  transition: opacity 0.2s;
+}
+
+.gallery img:hover {
+  opacity: 0.8;
+}
+
+.gslide-image img {
+  height: auto !important;
+}

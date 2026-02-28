@@ -1,0 +1,26 @@
+title: Reconaissance
+description: Modern Diagnostics for your Classic Mac
+baseurl: "" # the subpath, i.e. your repo name (leave empty if using username.github.io)
+url: "https://recon-68k.github.io" # your full GitHub Pages URL
+releases_url: "https://github.com/recon-68k/reconnaissance-app/releases"
+
+# Theme
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM # GitHub Flavored Markdown
+
+# Permalink structure
+permalink: pretty
+
+# Exclude files from the build
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor

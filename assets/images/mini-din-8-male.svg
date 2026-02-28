@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+      <metadata>
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:dc="http://purl.org/dc/elements/1.1/"
+                 xmlns:cc="http://creativecommons.org/ns#">
+          <cc:Work rdf:about="">
+            <dc:title>Mini-DIN-8 Pinout</dc:title>
+            <dc:creator>Jack 68K</dc:creator>
+            <dc:source>https://commons.wikimedia.org/wiki/File:MiniDIN-8_Diagram.svg</dc:source>
+            <dc:description>Modified from "MiniDIN-8 Diagram.svg" by Mobius. Changes: labelled all pins and gender. Original released into the public domain by the copyright holder.</dc:description>
+            <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+          </cc:Work>
+        </rdf:RDF>
+      </metadata>
+    </svg>
+    <g transform="matrix(0.458483,0,0,0.458483,95.9998,96)">
+        <g transform="matrix(1,0,0,1,-227.499,-227.5)">
+            <clipPath id="_clip1">
+                <rect x="12.391" y="12.388" width="430.217" height="430.225"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g id="path1352" transform="matrix(1,0,0,1,9.302,9.782)">
+                    <path d="M19.581,217.723C19.578,327.416 108.502,416.339 218.195,416.338C327.885,416.338 416.813,327.417 416.813,217.723C416.811,108.03 327.885,19.098 218.194,19.098C108.501,19.099 19.58,108.03 19.581,217.723Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:8px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,23.794,250.13)">
+                    <g transform="matrix(30,0,0,30,70.6037,175.709)">
+                    </g>
+                    <text x="3.909px" y="175.709px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:30px;">Male</text>
+                </g>
+                <g transform="matrix(1,0,0,1,-11.8143,14.8735)">
+                    <g transform="matrix(44,0,0,44,342.792,151.897)">
+                    </g>
+                    <text x="318.322px" y="151.897px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:44px;">8</text>
+                </g>
+                <g transform="matrix(1,0,0,1,-11.7597,14.8031)">
+                    <g transform="matrix(44,0,0,44,251.07,152.097)">
+                    </g>
+                    <text x="226.6px" y="152.097px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:44px;">7</text>
+                </g>
+                <g transform="matrix(1,0,0,1,-12.2565,15.6615)">
+                    <g transform="matrix(44,0,0,44,161.394,151.181)">
+                    </g>
+                    <text x="136.923px" y="151.181px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:44px;">6</text>
+                </g>
+                <g transform="matrix(1,0,0,1,-11.7298,16.6764)">
+                    <g transform="matrix(44,0,0,44,365.898,241.4)">
+                    </g>
+                    <text x="341.427px" y="241.4px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:44px;">5</text>
+                </g>
+                <g transform="matrix(1,0,0,1,-13.1601,15.3985)">
+                    <g transform="matrix(44,0,0,44,238.797,243.194)">
+                    </g>
+                    <text x="214.326px" y="243.194px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:44px;">4</text>
+                </g>
+                <g transform="matrix(1,0,0,1,-11.9676,15.851)">
+                    <g transform="matrix(44,0,0,44,136.755,242.527)">
+                    </g>
+                    <text x="112.284px" y="242.527px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:44px;">3</text>
+                </g>
+                <g transform="matrix(1,0,0,1,-12.9659,16.5177)">
+                    <g transform="matrix(44,0,0,44,299.012,333.367)">
+                    </g>
+                    <text x="274.541px" y="333.367px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:44px;">2</text>
+                </g>
+                <g transform="matrix(1,0,0,1,-10.3365,15.3238)">
+                    <g transform="matrix(44,0,0,44,205.22,334.486)">
+                    </g>
+                    <text x="180.749px" y="334.486px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:44px;">1</text>
+                </g>
+                <g id="path1354" transform="matrix(1,0,0,1,9.302,9.782)">
+                    <path d="M319.453,319.549C332.19,306.811 352.375,306.066 365.991,317.301C412.716,247.843 405.383,152.831 343.964,91.413C317.9,65.349 285.785,49.028 252.141,42.439C250.456,60.009 235.656,73.755 217.645,73.755C199.632,73.755 184.833,60.011 183.148,42.44C149.502,49.03 117.384,65.353 91.318,91.42C29.898,152.839 22.561,247.848 69.286,317.304C82.902,306.066 103.091,306.811 115.829,319.55C128.567,332.288 129.312,352.477 118.073,366.093C178.093,406.466 257.185,406.466 317.204,366.091C305.968,352.474 306.715,332.286 319.453,319.549Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:8px;"/>
+                </g>
+                <g id="circle1356" transform="matrix(1.2555,0,0,1.2555,-21.5045,-26.4378)">
+                    <circle cx="126.093" cy="141.746" r="19.554" style="fill:none;stroke:black;stroke-width:3px;"/>
+                </g>
+                <g id="circle1358" transform="matrix(1.2557,0,0,1.2557,-17.0223,-49.8812)">
+                    <circle cx="102.949" cy="233.331" r="19.554" style="fill:none;stroke:black;stroke-width:3px;"/>
+                </g>
+                <g id="circle1360" transform="matrix(1.2557,0,0,1.2557,-42.8482,-49.8812)">
+                    <circle cx="203.949" cy="233.331" r="19.554" style="fill:none;stroke:black;stroke-width:3px;"/>
+                </g>
+                <g id="circle1362" transform="matrix(1.2557,0,0,1.2557,-75.6755,-49.8812)">
+                    <circle cx="332.33" cy="233.331" r="19.554" style="fill:none;stroke:black;stroke-width:3px;"/>
+                </g>
+                <g id="circle1364" transform="matrix(1.25575,0,0,1.25575,-34.4219,-73.1978)">
+                    <circle cx="170.961" cy="324.452" r="19.554" style="fill:none;stroke:black;stroke-width:3px;"/>
+                </g>
+                <g id="circle1366" transform="matrix(1.25565,0,0,1.25565,-69.7409,-26.4552)">
+                    <circle cx="309.183" cy="141.745" r="19.554" style="fill:none;stroke:black;stroke-width:3px;"/>
+                </g>
+                <g id="circle1368" transform="matrix(1.2557,0,0,1.2557,-58.2839,-73.1808)">
+                    <circle cx="264.315" cy="324.451" r="19.554" style="fill:none;stroke:black;stroke-width:3px;"/>
+                </g>
+                <g id="circle1370" transform="matrix(1.2557,0,0,1.2557,-46.3638,-26.4628)">
+                    <circle cx="217.698" cy="141.746" r="19.554" style="fill:none;stroke:black;stroke-width:3px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
