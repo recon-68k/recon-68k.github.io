@@ -8,6 +8,8 @@ Does your Classic Mac play a sad chime or have a fault you can't figure out? Jus
 [Reconnaissance](https://github.com/recon-68k/reconnaissance-app/releases) runs on your modern machine and connects to your Classic Mac
 over serial to run diagnostic tests using the Test Manager that's built into the ROM. It's like having a TechStep, but easier and more capable.
 
+[Read the official announcement on TinkerDifferent](https://tinkerdifferent.com/threads/reconnaissance-modern-diagnostics-for-your-classic-mac.5098/){:target="_blank"}.
+
 # What You Need
 - [Reconnaissance App](https://github.com/recon-68k/reconnaissance-app/releases)
   - Available for macOS 14 Sonoma or later, Windows 10, and Windows 11
@@ -86,7 +88,7 @@ Is the project open source?
 # Serial Adapters and Cables
 You will need an appropriate serial cable to connect your Mac's Mini-DIN-8 modem port to your USB-Serial adapter, which almost certainly has a DE-9 male port (often referred to as a DB-9 port).
 
-> [Check out this TinkerDifferent post with links to serial adapters, cable parts, and premade cables.](https://tinkerdifferent.com/forums/macintosh.28/){:target="_blank"}
+> [Check out this TinkerDifferent post with links to serial adapters, cable parts, and premade cables.](https://tinkerdifferent.com/threads/usb-serial-adapter-and-cable-options.5099/){:target="_blank"}
 {: .callout-tip}
 
 If you're making your own cable, see the [Cable Pinout Reference](#serial-cable-pinout-reference).
