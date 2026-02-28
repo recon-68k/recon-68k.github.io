@@ -1,0 +1,9 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Reconnaissance</title>
+    <link>https://recon-68k.github.io/appcast/appcast-mac-v1.xml</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+  </channel>
+</rss>
