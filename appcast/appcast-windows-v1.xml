@@ -1,9 +1,15 @@
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-     xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Reconnaissance</title>
-    <link>https://recon-68k.github.io/appcast/appcast-windows-v1.xml</link>
-    <description>Most recent changes with links to updates.</description>
+    <description>Most recent changes with links to updates</description>
     <language>en</language>
+    <item>
+      <title>Reconnaissance 1.0.34</title>
+      <pubDate>Sat, 28 Feb 2026 14:46:17 -06:00</pubDate>
+      <sparkle:version>1.0.34</sparkle:version>
+      <sparkle:shortVersionString>1.0.34</sparkle:shortVersionString>
+      <enclosure url="https://github.com/recon-68k/reconnaissance-app/releases/v1.0.34/Reconnaissance-1.0.34-win-x64.msi" sparkle:version="1.0.34" sparkle:shortVersionString="1.0.34" length="54644217" sparkle:os="windows-x64" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="dDUmAibNEh5XFPPp+7/f5dkYochFiPxgmf90IFrrfnV09LnX10vxGLtyO0K2MVIeispHkTlpf6qRkrc702ywBA==" />
+    </item>
   </channel>
 </rss>

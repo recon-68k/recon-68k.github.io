@@ -1,9 +1,15 @@
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-     xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-  <channel>
-    <title>Reconnaissance</title>
-    <link>https://recon-68k.github.io/appcast/appcast-mac-v1.xml</link>
-    <description>Most recent changes with links to updates.</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Reconnaissance</title>
+        <item>
+            <title>1.0.34</title>
+            <pubDate>Sat, 28 Feb 2026 13:32:51 -0600</pubDate>
+            <link>https://github.com/recon-68k/reconnaissance-app/releases</link>
+            <sparkle:version>1.0.34.15874</sparkle:version>
+            <sparkle:shortVersionString>1.0.34</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/recon-68k/reconnaissance-app/releases/download/v1.0.34/Reconnaissance-1.0.34-macOS-Universal.dmg" length="88835452" type="application/octet-stream" sparkle:edSignature="NoZ3uTrzgC8mWfPj/TqHeYJYECSISKbbUkX6ucBpGvLLRqnrit3p0/uShXEljrgI8vSzvx7aSqj73XOPmjJpAw=="/>
+        </item>
+    </channel>
 </rss>
