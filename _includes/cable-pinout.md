@@ -36,6 +36,9 @@
     <td>GND</td>
   </tr>
   <tr>
+    <th colspan="5"><strong>Connect if Possible (not required)</strong></th>
+  </tr>
+  <tr>
     <td>Shell</td>
     <td>Shell</td>
     <td>Bare</td>
@@ -114,7 +117,7 @@
   <tr>
     <td>–</td>
     <td>NC</td>
-    <td>Black</td>
+    <td>Black/Gray</td>
     <td>8</td>
     <td>RxD+</td>
   </tr>
