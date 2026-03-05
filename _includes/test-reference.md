@@ -37,7 +37,7 @@ Tests for additional logic board components — SCC, VIA, SCSI, FPU, and others.
 | SWIM Chip | Runs the ROM's Super Woz Integrated Machine (SWIM) test. | | | | ✅ | ✅ |
 | Floppy Disk Controller Chip | Tests the floppy disk controller (SWIM or IWM) chip. Does not require a floppy drive to be connected. | ✅ | ✅ | ✅ | | |
 | FPU | Runs the ROM's FPU test. | | | | ✅ | |
-| FPU | Tests the on-board Motorola 68882 floating point unit | ✅ | ✅ | ✅ | | |
+| FPU | Tests the on-board Motorola 68881 or 68882 floating point unit. | ✅ | ✅ | ✅ | | |
 | Egret Chip | Runs the ROM's Egret chip test. | | | | ✅ | ✅ |
 | ADB Device Query | Tests VIA 1 to Apple Desktop Bus Transceiver communication by querying and reporting connected devices. | ✅ | ✅ | ✅ | | |
 | Sound Interrupts | Runs the ROM's sound interrupts test. | | | | ✅ | ✅ |
