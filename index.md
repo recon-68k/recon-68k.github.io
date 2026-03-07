@@ -8,7 +8,10 @@ Does your Classic Mac play a sad chime or have a fault you can't figure out? Jus
 [Reconnaissance](https://github.com/recon-68k/reconnaissance-app/releases) runs on your modern machine and connects to your Classic Mac
 over serial to run diagnostic tests using the Test Manager that's built into the ROM. It's like having a TechStep, but easier and more capable.
 
-[Read the official announcement on TinkerDifferent](https://tinkerdifferent.com/threads/reconnaissance-modern-diagnostics-for-your-classic-mac.5098/){:target="_blank"}.
+[Read the official announcement on TinkerDifferent](https://tinkerdifferent.com/threads/reconnaissance-modern-diagnostics-for-your-classic-mac.5098/){:target="_blank"}
+
+[Watch the tour by Rudy's Retro Intel on YouTube](https://youtu.be/K48vtzdnXa8?si=rzTTeE1JBBshee_J){:target="_blank"}
+
 
 # What You Need
 - [Reconnaissance App](https://github.com/recon-68k/reconnaissance-app/releases)
